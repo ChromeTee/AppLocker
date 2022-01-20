@@ -22,6 +22,8 @@ Default Domain policy, navigate to ‘Computer Configuration’ > Policies > ‘
 
 3- To add a custom rule, right click ‘executable rules and select ‘Create New Rule…’ to open up the rule creation wizard.
 ![image](https://user-images.githubusercontent.com/97390294/150279937-53019a0a-355f-4158-99f7-12cf756f9e18.png)
+
+
 3.1- Define permissions:
 – Allow or deny
 – What user or group to which the rule will apply
@@ -30,6 +32,8 @@ Default Domain policy, navigate to ‘Computer Configuration’ > Policies > ‘
 – The path to a specific file or folder (such as the default rules)
 – A single file based on the file hash
 ![image](https://user-images.githubusercontent.com/97390294/150280151-34b33c83-1995-4b7b-87d9-a97118883d62.png)
+
+
  
 4- select ‘create’ to create the new rule.
 5- To modify an existing rule, right-click the rule and select properties. In the properties window the following can be modified:
