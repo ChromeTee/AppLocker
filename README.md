@@ -9,6 +9,7 @@ audit mode.
 Default Domain policy, navigate to ‘Computer Configuration’ > Policies > ‘Windows Settings’ > ‘Security Settings’ > ‘Application Control Policies’ > AppLocker.
 
 2- Right-click on ‘executable rules’ and select ‘create default rules’.
+
 ![image](https://user-images.githubusercontent.com/97390294/150279729-7808bca8-6a71-4672-acc3-494e015ffe1e.png)
 
 ### The default rules include three rules:
@@ -21,6 +22,7 @@ Default Domain policy, navigate to ‘Computer Configuration’ > Policies > ‘
 – All other users cannot run any file outside of the Windows or Program Files directories.
 
 3- To add a custom rule, right click ‘executable rules and select ‘Create New Rule…’ to open up the rule creation wizard.
+
 ![image](https://user-images.githubusercontent.com/97390294/150279937-53019a0a-355f-4158-99f7-12cf756f9e18.png)
 
 
